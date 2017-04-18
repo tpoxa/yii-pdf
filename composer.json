@@ -5,6 +5,7 @@
 	"license": "New BSD License",
 	"type": "yii-extension",
 	"minimum-stability": "dev",
+	"version":"master",
 	"authors": [
 		{
 			"name": "Borales (Alexandr Bordun)",
