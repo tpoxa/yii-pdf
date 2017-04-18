@@ -4,6 +4,7 @@
 	"keywords": ["yii", "pdf"],
 	"license": "New BSD License",
 	"type": "yii-extension",
+	"minimum-stability": "stable",
 	"authors": [
 		{
 			"name": "Borales (Alexandr Bordun)",
